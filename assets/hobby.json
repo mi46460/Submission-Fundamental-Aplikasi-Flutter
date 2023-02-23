@@ -1,0 +1,13 @@
+{ 
+  "id" : "167",
+  "name" : "R Rifa Fauzi Komara",
+  "address" : "Jakarta",
+  "hobbies" : [ 
+    {
+      "name" : "Traveling"
+    },
+    {
+      "name" : "Hiking"
+    }
+  ]
+}
